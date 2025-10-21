@@ -5,6 +5,7 @@ cursor-style-blink = true
 cursor-text = #24273a
 title = " "
 quit-after-last-window-closed = true
+font-family = "BlexMono Nerd Font"
 
 # Catpuccin-mocha
 palette = 0=#45475a
