@@ -1,14 +1,14 @@
 background-opacity = 0.85
 background-blur = true
 cursor-style = block
-cursor-style-blink = true
-cursor-text = #24273a
+cursor-color = cell-foreground
+cursor-text = cell-background
 title = " "
 quit-after-last-window-closed = true
 font-family = "FantasqueSansM Nerd Font Mono"
 font-size = 13
 
-theme = Tokyonight
+theme = Everforest Dark Hard
 
 # Catpuccin-mocha
 #palette = 0=#45475a
