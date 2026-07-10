@@ -1,0 +1,7 @@
+onboarding = false
+[theme]
+name = "vesper"
+auto_switch = false
+
+[ui.sound]
+enabled = false

@@ -2,3 +2,11 @@ kitty/
 raycast/
 nvim/
 tmux/
+
+tdev/
+opencode/
+
+homebrew/
+herdr/session.json
+
+*.log
